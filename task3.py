@@ -8,7 +8,6 @@ from data import a, b, c, d, e, f
 print(a)
 print(type(a))
 a = float(a)
-print(type(a))
 
 # b
 print(b)
@@ -22,7 +21,6 @@ print(type(c))
 print(d)
 print(type(d))
 d = int(d)
-print(type(d))
 
 # e
 print(e)
@@ -32,6 +30,5 @@ print(type(e))
 print(f)
 print(type(f))
 f = float(f)
-print(type(f))
 
 
